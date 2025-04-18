@@ -1,0 +1,7 @@
+# Specific to Mac
+.DS_Store
+
+
+# For IDLE
+.vscode
+.idea
